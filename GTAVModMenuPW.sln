@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTAVModMenuPW", "GTAVModMenuPW\GTAVModMenuPW.csproj", "{2A6161F4-A72A-4F1D-AAD6-9F2253082C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6161F4-A72A-4F1D-AAD6-9F2253082C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6161F4-A72A-4F1D-AAD6-9F2253082C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6161F4-A72A-4F1D-AAD6-9F2253082C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6161F4-A72A-4F1D-AAD6-9F2253082C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7016CD4-1B32-4E8E-A2E9-7A542E8028C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\patri\source\repos\GTAVModMenuPW\GTAVModMenuPW\obj\Debug\GTAVModMenuPW.csprojAssemblyReference.cache
+C:\Users\patri\source\repos\GTAVModMenuPW\GTAVModMenuPW\obj\Debug\GTAVModMenuPW.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\GTAVModMenuPW\GTAVModMenuPW\bin\Debug\GTAVModMenuPW.dll
+C:\Users\patri\source\repos\GTAVModMenuPW\GTAVModMenuPW\bin\Debug\GTAVModMenuPW.pdb
+C:\Users\patri\source\repos\GTAVModMenuPW\GTAVModMenuPW\bin\Debug\NativeUI.dll
+C:\Users\patri\source\repos\GTAVModMenuPW\GTAVModMenuPW\obj\Debug\GTAVModMenuPW.csproj.CopyComplete
+C:\Users\patri\source\repos\GTAVModMenuPW\GTAVModMenuPW\obj\Debug\GTAVModMenuPW.dll
+C:\Users\patri\source\repos\GTAVModMenuPW\GTAVModMenuPW\obj\Debug\GTAVModMenuPW.pdb
